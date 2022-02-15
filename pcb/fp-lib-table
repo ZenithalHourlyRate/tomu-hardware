@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name usb-pcb)(type KiCad)(uri "$(KIPRJMOD)/usb-pcb.pretty")(options "")(descr ""))
+  (lib (name "usb-pcb")(type "KiCad")(uri "${KIPRJMOD}/usb-pcb.pretty")(options "")(descr ""))
+  (lib (name "MeasurePoint")(type "KiCad")(uri "/home/zenithal/C/tomu/Measurement_Points")(options "")(descr ""))
 )
